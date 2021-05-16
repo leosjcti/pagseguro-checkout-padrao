@@ -1,1 +1,1 @@
-# pagseguro-checkout-padrao
+# pagseguro-checkout
